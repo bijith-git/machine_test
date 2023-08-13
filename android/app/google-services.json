@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367773996626",
+    "firebase_url": "https://video-player-ee4bc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "video-player-ee4bc",
+    "storage_bucket": "video-player-ee4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367773996626:android:f1b5c2e67339b5f3f4718b",
+        "android_client_info": {
+          "package_name": "lilac.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367773996626-789modupg1hb56js1kifjd5ls0sa27bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lilac.videoplayer",
+            "certificate_hash": "fb54a2da7428ca552dddf5c46a5cfb088c443643"
+          }
+        },
+        {
+          "client_id": "367773996626-pjr3ls9p6mdut0au7q29lecimdagrvvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAlC8Tw_8HtIbnEVXEVp4y15RI84tXqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367773996626-pjr3ls9p6mdut0au7q29lecimdagrvvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367773996626-9na25dkp89aek6iu1942f10m52h90983.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lilacMachineTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

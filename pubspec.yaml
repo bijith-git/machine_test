@@ -1,0 +1,46 @@
+name: lilac_machine_test
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  appinio_video_player: ^1.2.1
+  firebase_core: ^2.15.0
+  firebase_storage: ^11.2.5
+  firebase_auth: ^4.7.2
+  cloud_firestore: ^4.8.4
+  shared_preferences: ^2.2.0
+  image_picker: ^1.0.2
+  provider: ^6.0.5
+  pinput: ^3.0.0
+  flutter_native_splash: ^2.3.1
+  firebase_database: ^10.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/appicon.png"
+  min_sdk_android: 21
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
